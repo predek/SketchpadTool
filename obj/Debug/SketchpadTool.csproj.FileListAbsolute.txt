@@ -1,0 +1,12 @@
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\bin\Debug\SketchpadTool.exe.config
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\bin\Debug\SketchpadTool.exe
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\bin\Debug\SketchpadTool.pdb
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\MainWindow.baml
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\MainWindow.g.cs
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\App.g.cs
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\SketchpadTool_MarkupCompile.cache
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\SketchpadTool.g.resources
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\SketchpadTool.Properties.Resources.resources
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\SketchpadTool.csproj.GenerateResource.Cache
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\SketchpadTool.exe
+C:\Users\username\Desktop\SketchpadTool\SketchpadTool\obj\Debug\SketchpadTool.pdb
